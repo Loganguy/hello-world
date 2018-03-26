@@ -1,0 +1,4 @@
+My stuff goes here.
+ In follow-up to my phone message, the general go-live time frame is about eight weeks; most of that time is is 
+   consumed in the security assessment but several other tasks are managed by several different teams.
+   That said, a process to reduce the security scan by a couple weeks should be available in the near future.
